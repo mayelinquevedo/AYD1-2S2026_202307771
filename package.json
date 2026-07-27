@@ -1,0 +1,24 @@
+{
+  "name": "ayd1-2s2026_202307771",
+  "version": "1.0.0",
+  "description": "AYD1-2S2026_202307771",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayelinquevedo/AYD1-2S2026_202307771.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mayelinquevedo/AYD1-2S2026_202307771/issues"
+  },
+  "homepage": "https://github.com/mayelinquevedo/AYD1-2S2026_202307771#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
