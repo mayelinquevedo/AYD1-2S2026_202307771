@@ -5,7 +5,7 @@ const PORT = 8000;
 app.get('/', (req, res) => {
   res.json({
     nombre: "Mayelin Lucía Quevedo",
-    cancion_favorita: "Oldies Station - Twenty One Pilots"
+    cancion_favorita: "Clancy - Twenty One Pilots"
   });
 });
 
